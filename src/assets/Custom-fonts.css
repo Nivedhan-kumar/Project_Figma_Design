@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Satoshi'; /* Replace with the actual font family name */
+    src: url('../assets/customFonts/Satoshi-Regular.woff') format('woff'),
+         url('../assets/customFonts/Satoshi-Regular.woff') format('woff'); /* Optional, specify font weight(s) */
+    font-style: normal; /* Optional, specify font style(s) */
+  }
